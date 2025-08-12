@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/your-repo-name)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/Devendra-singh-baghel/rest-country-api)
+- Live Site URL: [Live Demo](https://rest-country-api-livid.vercel.app/)
 
 ---
 
@@ -62,7 +62,6 @@ Users should be able to:
 - JavaScript (ES6+) – Modern JS features
 
 ---
-
 ### What I Learned
 
 - Fetching and filtering API data dynamically with Redux Toolkit async thunks
@@ -84,8 +83,9 @@ export const fetchCountries = createAsyncThunk(
     return response.data;
   }
 );
+```
 
-
+---
 
 ### Continued Development
 
